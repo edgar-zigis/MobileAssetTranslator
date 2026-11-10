@@ -1,0 +1,24 @@
+/*
+  Localizable.strings
+  Sample app
+*/
+
+// MARK: - Login
+
+/* Title of the login button */
+"login.button" = "Log in";
+
+/* Greeting on the home screen. %@ is the user's first name. */
+"home.greeting" = "Welcome back, %@!";
+"home.summary" = "%@ sent you %d photos";
+"quote" = "She said \"hi\"\nand left.";
+"discount" = "50% off everything";
+"progress" = "%d%% complete";
+"empty" = "";
+"only.placeholders" = "%@ / %@";
+legacy_unquoted = "Unquoted key";
+
+// MARK: - Settings
+
+"settings.logout" = "Log out";
+"settings.delete.confirm" = "Are you sure you want to delete your account? This can't be undone.";

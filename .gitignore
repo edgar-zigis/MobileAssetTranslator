@@ -1,0 +1,16 @@
+output.txt
+node_modules
+dist
+output
+.next
+.mastra
+.cursor
+.claude
+.env.development
+.env
+*.db
+*.db-*
+.DS_Store
+.cache
+Dockerfile
+.idea/**

@@ -1,0 +1,186 @@
+/* 
+  Localizable.strings
+  Paleontologas
+
+  Created by Edgar Žigis on 17/05/2025.
+  
+*/
+
+"geological_time_scale" = "Geological time scale";
+
+"environment" = "Environment";
+"general_information" = "Description";
+"life_forms" = "Life";
+
+"map_author_1" = "© Masato Hattori";
+"map_author_2" = "© C. R. Scotese";
+
+"mya" = "%@ mya";
+
+"hadean" = "Hadean";
+"archean" = "Archean";
+"proterozoic" = "Proterozoic";
+"cambrian" = "Cambrian";
+"ordovician" = "Ordovician";
+"silurian" = "Silurian";
+"devonian" = "Devonian";
+"carboniferous" = "Carboniferous";
+"permian" = "Permian";
+"triassic" = "Triassic";
+"jurassic" = "Jurassic";
+"cretaceous" = "Cretaceous";
+"paleogene" = "Paleogene";
+"neogene" = "Neogene";
+"quaternary" = "Quaternary";
+"future" = "Future";
+
+"hadean_short_description" = "Early Earth formation, first water.";
+"archean_short_description" = "Single-celled life traces, first oxygen. Photosynthesis.";
+"proterozoic_short_description" = "Multi-celled life traces, atmospheric oxygen. Global glaciations.";
+"cambrian_short_description" = "Modern complex life appearance.";
+"ordovician_short_description" = "Modern life diversification trends continue.";
+"silurian_short_description" = "First terrestrial plants.";
+"devonian_short_description" = "First terrestrial tetrapods.";
+"carboniferous_short_description" = "Times of the large forests and insects. Pangaea formation.";
+"permian_short_description" = "Arid Earth period. Largest mass extinction in the Earth history.";
+"triassic_short_description" = "First mammals and dinosaurs.";
+"jurassic_short_description" = "Dinosaur dominance. Division of the Pangaea.";
+"cretaceous_short_description" = "Flowering plants appearance. Dinosaur extinction.";
+"paleogene_short_description" = "Mammal dominance. Eocene thermal maximum.";
+"neogene_short_description" = "Modern fauna formation. First hominids.";
+"quaternary_short_description" = "Time of the Ice Ages. Current times.";
+"future_short_description" = "Who knows.";
+
+"proterozoic_physics" = "Mean temperature: 5-45 °C\nAtmospheric oxygen: 0-12%";
+"proterozoic_description" = "The Proterozoic Eon - the third major eon in Earth's history, spanning from approximately 2.5 billion to 541 million years ago, just before the widespread emergence of complex life. Key events of this eon include the transition to an oxygen-rich atmosphere during the Great Oxidation Event, multiple global glaciations (such as those associated with the Snowball Earth hypothesis during the Huronian, Sturtian, and Marinoan glaciations), and the evolution of early multicellular eukaryotic organisms, including soft-bodied life forms like those of the Ediacaran biota.\nThis is a hypothetical reconstruction of a Snowball Earth scenario during the Huronian and Cryogenian glaciations.";
+"proterozoic_additional_title" = "Great Oxidation Event";
+"proterozoic_additional" = "The Great Oxidation Event was the biologically induced rise of oxygen in Earth's atmosphere, occurring around 2.4 to 2.1 billion years ago. The widely accepted hypothesis states that the primary driver of this event was the evolution of oxygenic photosynthesis in cyanobacteria.\nBefore this event, any free oxygen produced was rapidly consumed by chemical reactions with dissolved iron or organic matter. However, once these oxygen sinks became saturated, excess oxygen began accumulating in the atmosphere.\nFree oxygen is toxic to obligate anaerobic organisms, leading to a major extinction event. Additionally, atmospheric oxygen reacted with methane, a potent greenhouse gas, significantly lowering its concentration. This process likely triggered the Huronian glaciation, which lasted approximately 300 million years (from ~2.4 to ~2.1 billion years ago).\nThese profound changes in Earth's atmospheric and chemical cycles created new evolutionary pressures and opportunities. Life adapted first to tolerate and then to harness atmospheric oxygen, leading to the development of aerobic respiration. This metabolic breakthrough vastly increased the available energy supply, enabling the evolution of more complex, multicellular organisms.";
+"proterozoic_life_forms" = "The Proterozoic Eon marks a crucial transition in the evolution of life, from simple unicellular organisms to more complex forms. During the Great Oxidation Event, many anaerobic organisms declined due to oxygen toxicity, while oxygen-tolerant and aerobic life forms, including early eukaryotic protists and bacteria, proliferated. By the mid-Proterozoic, stromatolites - microbial reef-like structures built by cyanobacteria - reached their peak diversity. During this time, the ancestors of fungi diverged from the ancestors of animals, marking an important evolutionary split within eukaryotes. By the Ediacaran Period (635-541 million years ago), the first complex, soft-bodied multicellular organisms had appeared, including members of the enigmatic Ediacaran biota, which represent some of the earliest known macroscopic life forms.";
+
+"cambrian_physics" = "Mean temperature: 21 °C\nAtmospheric oxygen: 12.5%";
+"cambrian_description" = "The Cambrian Period was the first geological period of the Paleozoic Era and marked a profound transformation in life on Earth. Before the Cambrian, most living organisms were microscopic and relatively simple. However, the Cambrian saw an unprecedented diversification of life in an event known as the Cambrian Explosion. During this time, many major animal phyla first appeared in the fossil record, and complex ecosystems emerged.\nThe great glaciers of the late Proterozoic Eon had long melted, leading to high sea levels that flooded vast areas of continents with warm, shallow seas - an ideal environment for marine life. The Earth was generally cool during the Early Cambrian, likely due to the supercontinent Gondwana covering the South Pole, which disrupted polar ocean currents. However, global temperatures were still around 7°C higher than today. While polar ice caps and glaciations may have existed, the climate gradually warmed toward the end of the period. Glaciers retreated, sea levels rose dramatically, and this warming trend continued into the Ordovician Period.";
+"cambrian_additional_title" = "The Cambrian Explosion";
+"cambrian_additional" = "The Cambrian Explosion was a relatively brief evolutionary event, during which approximately 63% of all biological classes and most of the major modern animal phyla first appeared. This period saw the emergence of complex ecosystems, with the development of burrowing behaviors and the widespread diversification of skeletonized animals, which were previously absent or rare.\nPossible causes of this evolutionary event:\n1. Increased atmospheric oxygen levels, which supported larger and more complex organisms.\n2. The formation of an ozone layer, reducing the harmful effects of ultraviolet (UV) radiation and enabling life to thrive in shallower waters.\n3. The Snowball Earth events during the late Proterozoic, which led to mass extinctions and opened up ecological niches for new life forms.\n4. Higher calcium concentrations in Cambrian seawater, allowing marine organisms to develop skeletons, shells, and other hard body structures.\n5. Developmental changes, including the evolution of Hox genes, which played a key role in organizing body plans and enabling more complex organisms to form.\n6. Changes in the food web, leading to coevolution and predator-prey “arms races” that drove anatomical and behavioral innovations.\nThe Cambrian was also a time of evolutionary experimentation, resulting in many bizarre and unique body plans, some of which have no modern descendants.";
+"cambrian_life_forms" = "Most animal life during the Cambrian was aquatic. Arthropods were by far the most dominant animals in the ocean, with trilobites being particularly abundant. This period also saw the emergence of many new mineralized organisms, as well as the first widespread burrowing animals, which played a key role in reshaping seafloor ecosystems. However, unlike in modern times, most animals lived on or near the sea floor, with very few swimming or pelagic species.";
+
+"paleogene_titanoboa" = "Titanoboa";
+"paleogene_gastornis" = "Gastornis";
+"paleogene_basilosaurus" = "Basilosaurus";
+"paleogene_paraceratherium" = "Paraceratherium";
+"paleogene_daeodon" = "Daeodon";
+"paleogene_pyrotherium" = "Pyrotherium";
+"paleogene_archaeotherium" = "Archaeotherium";
+"paleogene_arsinoitherium" = "Arsinoitherium";
+"paleogene_brontotherium" = "Brontotherium";
+"paleogene_uintatherium" = "Uintatherium";
+"paleogene_hyaenodon" = "Hyaenodon";
+"paleogene_dorudon" = "Dorudon";
+"paleogene_hyrachyus" = "Hyrachyus";
+"paleogene_otodus" = "Otodus";
+"paleogene_protocetus" = "Protocetus";
+"paleogene_pelagornis" = "Pelagornis";
+"paleogene_hyracotherium" = "Hyracotherium";
+"paleogene_pakicetus" = "Pakicetus";
+"paleogene_ambulocetus" = "Ambulocetus";
+"paleogene_rodhocetus" = "Rodhocetus";
+
+"paleogene_titanoboa_description" = "Titanoboa cerrejonensis was the largest snake ever known, slithering through the tropical rainforests of what is now Colombia about 8 million years after the extinction of the dinosaurs. It could reach lengths of up to 13 meters and weigh over a ton - roughly the size of a city bus. Titanoboa belonged to the boa family and likely lived in humid, swampy environments, where it hunted large prey such as crocodile-like reptiles and giant fish. Its immense size suggests it required the consistently warm climate of the Paleocene tropics to survive, as snakes rely on external heat to regulate their body temperature. The discovery of Titanoboa in the Cerrejón coal mines provided key evidence of ancient equatorial climates, showing that tropical regions were significantly hotter than today. As both a predator and a paleoenvironmental indicator, Titanoboa remains one of the most spectacular examples of post-dinosaur gigantism.";
+"paleogene_gastornis_description" = "Gastornis was a giant, flightless bird that roamed the forests of Europe, North America, and Asia during the early Cenozoic. Standing up to 2 meters tall, it had powerful legs and a massive, deep beak capable of delivering a strong bite. For many years, paleontologists thought Gastornis was a fearsome predator, but more recent evidence such as the structure of its beak and isotopic analyses of its bones - suggests it was primarily herbivorous, feeding on tough vegetation, seeds, and possibly fruit. Its large size and strong build likely deterred predators, allowing it to dominate early post-dinosaur ecosystems. Gastornis represents an early example of giant birds evolving to fill ecological roles left vacant after the extinction of the non-avian dinosaurs, showcasing how quickly life rebounded in the Paleogene world.";
+"paleogene_basilosaurus_description" = "Basilosaurus was one of the earliest fully aquatic whales and a top predator of the Late Eocene seas. Despite its name, which means “king lizard,” it was a true mammal and a distant ancestor of modern whales and dolphins. Growing up to 18 meters long, Basilosaurus had an elongated, serpentine body with small, functional hind limbs, remnants of its terrestrial ancestry. Its long jaws were lined with sharp, conical teeth adapted for seizing fish and smaller marine mammals. Fossils have been found in North America, North Africa, and the Middle East, particularly in Egypt’s Wadi Al-Hitan (“Valley of the Whales”), a UNESCO World Heritage Site. Basilosaurus marks a crucial stage in whale evolution, showing how mammals transitioned from land-dwelling ancestors to powerful oceanic hunters.";
+"paleogene_paraceratherium_description" = "Paraceratherium was the largest land mammal ever known - a hornless relative of modern rhinoceroses that lived across Asia in open woodlands and floodplains. Standing about 5 meters tall at the shoulder and weighing up to 20 tons, it rivaled some dinosaurs in size. Its long neck and prehensile upper lip allowed it to browse on leaves high in the trees, much like a giraffe. Despite its immense size, Paraceratherium had a relatively lightweight skeleton for efficient movement and likely traveled long distances in search of food. Fossils found in Pakistan, Mongolia, China, and Central Asia reveal that it occupied vast regions once covered by subtropical forests. As a gentle giant of the Oligocene, Paraceratherium represents the peak of mammalian gigantism on land before climate shifts and habitat changes led to its extinction.";
+"paleogene_daeodon_description" = "Daeodon was the largest member of the entelodonts - an extinct family of pig-like omnivorous mammals often nicknamed “hell pigs” or “terminator pigs.” Standing up to 1.8 meters tall at the shoulder and weighing around 900 kilograms, Daeodon had an enormous head nearly a meter long, powerful jaws, and massive teeth adapted for crushing bone, tearing flesh, and grinding plants. Despite their fearsome appearance, entelodonts were opportunistic feeders, eating anything from carrion and small animals to roots and fruit. Long limbs and cloven hooves suggest that Daeodon was a fast runner, capable of chasing down prey or scavenging across vast plains. Its fossils are found in the western United States, revealing that it was an apex omnivore in early North American ecosystems.";
+"paleogene_pyrotherium_description" = "Pyrotherium was a large, hoofed mammal that lived in South America and is known for its distinctive, elephant-like appearance. It stood about 3 meters tall and weighed around 3 tons, with a bulky body, column-like legs, and a short trunk or flexible upper lip that it likely used to grasp vegetation. Its skull was long and flat, ending in two forward-pointing tusks formed from enlarged incisors. Despite superficial similarities, Pyrotherium was not closely related to elephants but belonged to an extinct order of South American mammals whose evolutionary relationships remain uncertain. It inhabited swampy lowlands and river plains, feeding on soft, aquatic plants. As one of the most mysterious members of South America’s unique prehistoric fauna, Pyrotherium highlights the continent’s long isolation and its tendency to produce evolutionary lineages found nowhere else on Earth.";
+"paleogene_archaeotherium_description" = "Archaeotherium was a large, omnivorous entelodont - part of the so-called “hell pigs,” though it was more closely related to hippos and whales than to true pigs. It stood about 1.5 meters tall at the shoulder and weighed around 300-400 kilograms. Its massive head, armed with crushing jaws and sharp teeth, suggests a versatile diet that included meat, roots, carrion, and even bones. With long legs and a sturdy body, Archaeotherium was likely a fast, aggressive forager capable of both hunting and scavenging. Fossils from North America show that it lived in open woodlands and floodplains, sharing its environment with early horses, rhinoceroses, and predators. Bite marks on fossils of other animals hint that it may have used ambush tactics or driven competitors away from kills.";
+"paleogene_arsinoitherium_description" = "Arsinoitherium was a large, rhinoceros-sized herbivorous mammal that lived in the tropical forests and swamps of northern Africa, particularly in what is now Egypt. It reached about 3 meters in length and weighed around 2 tons. Its most striking feature was a pair of massive, conical horns on its snout - composed of bone rather than keratin like those of modern rhinos - and a smaller pair of secondary horns behind them. Despite its rhino-like appearance, Arsinoitherium was not closely related to rhinos but instead belonged to the extinct order Embrithopoda, a group more distantly related to elephants, manatees, and hyraxes. Its teeth indicate a diet of soft, swampy vegetation, and it probably lived in herds near water sources. Fossils found in the Fayum Depression, a region rich in early mammal fossils, make Arsinoitherium an important species for understanding the early diversification of large mammals in Africa.";
+"paleogene_brontotherium_description" = "Brontotherium was a massive, rhinoceros-like mammal belonging to the brontotheres, a group of large herbivores related to horses. It stood about 2.5 meters tall at the shoulder and could reach up to 5 meters in length. Its most distinctive feature was a pair of large, forked horns on its snout, formed from thickened bone, which were likely used in display or combat between males. Despite their size and power, brontotheres were strict plant-eaters, browsing on soft vegetation in the subtropical forests and floodplains of North America. Brontotherium and its relatives became extinct at the end of the Eocene, possibly due to climate change and the spread of new, tougher grasses that their teeth were not adapted to process.";
+"paleogene_uintatherium_description" = "Uintatherium was a large, rhinoceros-like herbivorous mammal that lived in North America during the early Cenozoic. It reached up to 4 meters in length and weighed around 2 tons, making it one of the largest land animals of its time. Its skull was highly distinctive: males bore six bony knobs or blunt horn-like projections on their heads, and both sexes had long, saber-like upper canine teeth. These features may have been used in display, combat, or species recognition. Despite their fearsome appearance, Uintatherium fed on soft vegetation such as leaves and aquatic plants. It belonged to the extinct order Dinocerata, with no close modern relatives, and its fossils are especially abundant in Wyoming and Utah.";
+"paleogene_hyaenodon_description" = "Hyaenodon was a genus of large carnivorous mammals belonging to the now-extinct group called creodonts. Despite its name, it was not related to modern hyenas but represented a separate lineage of predators that once dominated before modern carnivores (like cats and dogs) evolved. Species of Hyaenodon varied greatly in size, from jackal-like hunters to giants over 1.5 meters long with skulls nearly half a meter in length. They had long, narrow jaws filled with slicing teeth adapted for shearing flesh, making them specialized meat-eaters. Hyaenodon likely hunted and scavenged across open woodlands and plains of Eurasia, Africa, and North America. As top predators for millions of years, creodonts like Hyaenodon showcase the diversity of mammalian carnivores before being replaced by today’s carnivoran mammals.";
+"paleogene_dorudon_description" = "Dorudon was an early whale that swam in the warm seas of the Late Eocene. Growing about 5 meters long, it was smaller than its close relative Basilosaurus but shared a similar elongated, streamlined body. Unlike modern whales, Dorudon still had small, functional hind limbs, a reminder of its land-dwelling ancestry, though these were too reduced to be used in walking. It was a skilled predator, feeding mainly on fish and small sharks. Fossils of Dorudon are especially well known from Egypt’s Wadi Al-Hitan (“Valley of the Whales”), where skeletons provide a clear picture of whale evolution from land mammals to fully aquatic giants. Dorudon illustrates the transition toward modern whales, bridging primitive archaeocetes and today’s toothed and baleen whales.";
+"paleogene_hyrachyus_description" = "Hyrachyus was a small, early perissodactyl (odd-toed ungulate) that lived in North America, Europe, and Asia. About the size of a modern tapir, it stood around 1 meter tall and had a compact, sturdy body with three toes on each foot. It is considered one of the earliest known relatives of both rhinoceroses and tapirs, showing transitional traits between primitive herbivores and their more specialized descendants. Hyrachyus had a relatively simple, elongated skull with low-crowned teeth suited for browsing soft leaves and shoots in subtropical forests. Its build suggests it was an agile browser capable of moving through dense vegetation.";
+"paleogene_otodus_description" = "Otodus was a genus of giant mackerel sharks that dominated the world’s oceans for over 50 million years. It originated in the early Eocene and is best known as the ancestor of the colossal Otodus megalodon, the largest predatory shark ever known. Early Otodus species reached lengths of up to 12 meters and had large, triangular teeth with smooth edges, which later evolved into the serrated forms seen in Megalodon. These sharks were apex predators, preying on large fish and early marine mammals. Their wide geographic range - from Europe and Africa to Asia and the Americas - shows they were highly adaptable to different marine environments. The lineage of Otodus illustrates the gradual evolution of gigantism and specialized feeding strategies among sharks, culminating in the apex predators that ruled Miocene and Pliocene seas.";
+
+//  Permian quiz questions
+
+"permian_question_1_image" = "item_permian";
+"permian_question_1" = "What was the mean surface temperature during the Permian Period?";
+"permian_variant_1_1" = "16 °C";
+"permian_variant_1_2" = "25 °C";
+"permian_variant_1_3" = "10 °C";
+"permian_variant_1_4" = "30 °C";
+
+"permian_question_2_image" = "item_permian";
+"permian_question_2" = "What was the atmospheric oxygen level during the Permian Period?";
+"permian_variant_2_1" = "23%";
+"permian_variant_2_2" = "35%";
+"permian_variant_2_3" = "15%";
+"permian_variant_2_4" = "10%";
+
+"permian_question_3_image" = "item_permian";
+"permian_question_3" = "Which geological period followed the Permian?";
+"permian_variant_3_1" = "Triassic";
+"permian_variant_3_2" = "Carboniferous";
+"permian_variant_3_3" = "Jurassic";
+"permian_variant_3_4" = "Cambrian";
+
+"permian_question_4_image" = "item_permian";
+"permian_question_4" = "What was the name of the vast global ocean surrounding Pangaea?";
+"permian_variant_4_1" = "Panthalassa";
+"permian_variant_4_2" = "Tethys";
+"permian_variant_4_3" = "Iapetus";
+"permian_variant_4_4" = "Mirovia";
+
+"permian_question_5_image" = "item_permian";
+"permian_question_5" = "The Permian ended with which catastrophic event?";
+"permian_variant_5_1" = "The Great Dying";
+"permian_variant_5_2" = "The K-T Extinction";
+"permian_variant_5_3" = "The Cambrian Explosion";
+"permian_variant_5_4" = "The Ice Age";
+
+"permian_question_6_image" = "item_permian";
+"permian_question_6" = "Approximately what percentage of marine species were wiped out during the Permian extinction?";
+"permian_variant_6_1" = "90-95%";
+"permian_variant_6_2" = "50%";
+"permian_variant_6_3" = "25%";
+"permian_variant_6_4" = "10%";
+
+"permian_question_7_image" = "item_permian";
+"permian_question_7" = "What major volcanic event contributed to the Permian mass extinction?";
+"permian_variant_7_1" = "Eruptions in the Siberian Traps";
+"permian_variant_7_2" = "Eruption of Yellowstone";
+"permian_variant_7_3" = "Formation of the Deccan Traps";
+"permian_variant_7_4" = "Eruption of Mount Vesuvius";
+
+"permian_question_8_image" = "item_permian";
+"permian_question_8" = "Which major shift in vegetation occurred during the Middle Permian?";
+"permian_variant_8_1" = "Lycopod trees were replaced by seed ferns";
+"permian_variant_8_2" = "Flowering plants took over the forests";
+"permian_variant_8_3" = "Grasslands covered the continents";
+"permian_variant_8_4" = "All plant life became aquatic";
+
+"error_account_name_already_exists" = "This username already exists!";
+"error_account_name_has_invalid_characters" = "Username can not contain .#$[] characters!";
+"error_account_name_not_allowed" = "This username is not allowed!";
+"error_no_internet_connection" = "Connection error! Please try again later.";
+
+"leaderboard" = "Leaderboard";
+"leaderboard_invitation_title" = "Want to join the fun?";
+"leaderboard_invitation_description" = "Create an account and compete with the top paleontology enthusiasts!";
+"leaderboard_invitation_button_label" = "Create an account!";
+
+"leaderboard_global_ranking_title" = "Your global ranking is #%d!";
+"leaderboard_global_ranking_description" = "Answer quiz questions - each correct answer gives you +1 XP. If you achieve a perfect score of 10 out of 10, your earned XP will be doubled!";
+
+"leaderboard_modal_claim_username_title" = "Claim your username!";
+"leaderboard_modal_claim_username_description" = "Your username will be displayed on the leaderboard.";
+"leaderboard_modal_claim_username_textfield_placeholder" = "Enter username";
+"leaderboard_xp_earned_label" = "You’ve claimed %d XP!";
+
+"general_category" = "General Quiz";
+"precambrian_category" = "Precambrian";
+"paleozoic_category" = "Paleozoic";
+"mesozoic_category" = "Mesozoic";
+"cenozoic_category" = "Cenozoic";
+"fossil_category" = "Fossil test";
+"choose_category" = "Choose category";
+"tailored_quiz" = "Tailored quiz";
+"questions_answered" = "Questions answered";

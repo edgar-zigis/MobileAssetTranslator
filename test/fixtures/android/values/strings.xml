@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Login -->
+
+    <!-- Title of the login button -->
+    <string name="login_button">Log in</string>
+    <string name="app_name" translatable="false">Sample</string>
+    <!-- %1$s is the user's first name -->
+    <string name="home_greeting">Welcome back, <b>%1$s</b>!</string>
+    <string name="home_summary">%1$s sent you %2$d photos</string>
+    <string name="apostrophe">You\'re all set &amp; ready</string>
+    <string name="quoted">"  Spaces are kept  "</string>
+    <string name="collapsed">This   text
+        wraps over lines</string>
+    <string name="escapes">Line one\nLine \"two\" \@home</string>
+    <string name="html_cdata"><![CDATA[Read our <a href="https://example.com">terms</a>]]></string>
+    <string name="xliff">Expires in <xliff:g id="days" example="3">%d</xliff:g> days</string>
+    <string name="percent" formatted="false">100% sure</string>
+    <string name="empty"></string>
+
+    <!-- Settings -->
+
+    <plurals name="files_count">
+        <item quantity="one">%d file</item>
+        <item quantity="other">%d files</item>
+    </plurals>
+    <string-array name="weekdays">
+        <item>Monday</item>
+        <item>Tuesday</item>
+    </string-array>
+    <color name="brand">#FF0000</color>
+</resources>
